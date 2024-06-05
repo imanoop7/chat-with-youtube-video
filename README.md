@@ -29,12 +29,7 @@ To run the chatbot and the scripts, you need the following dependencies:
 - YouTube Data API
 
 ## Installation
-
 Clone the repository and install the required packages:
-    ```bash
-    git clone https://github.com/yourusername/chat-with-youtube-video.git
-    cd chat-with-youtube-video
-    pip install -r requirements.txt
 
 ## Usage
 ### Jupyter Notebook
